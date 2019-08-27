@@ -1,0 +1,9 @@
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\ResizingBorderlessVB\ResizingBorderless\bin\Debug\ResizingBorderless.exe
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\ResizingBorderlessVB\ResizingBorderless\bin\Debug\ResizingBorderless.pdb
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\ResizingBorderlessVB\ResizingBorderless\bin\Debug\Guna.UI.dll
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\ResizingBorderlessVB\ResizingBorderless\obj\Debug\ResizingBorderless.csprojResolveAssemblyReference.cache
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\ResizingBorderlessVB\ResizingBorderless\obj\Debug\ResizingBorderless.Form1.resources
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\ResizingBorderlessVB\ResizingBorderless\obj\Debug\ResizingBorderless.Properties.Resources.resources
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\ResizingBorderlessVB\ResizingBorderless\obj\Debug\ResizingBorderless.csproj.GenerateResource.Cache
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\ResizingBorderlessVB\ResizingBorderless\obj\Debug\ResizingBorderless.exe
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\ResizingBorderlessVB\ResizingBorderless\obj\Debug\ResizingBorderless.pdb
